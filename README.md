@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything what is interesting. Professionally Computational Scientist who can not resist to immerse in Biology, Chemistry, Physics and AI"
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on projects concerning Monoclonal Antibodies, Muilti-domain Proteins, Rigid Body dynamics, Systems Biology 
-- 📫 Reach me at: d4sky.eu 
+- 📫 Reach me at: www.d4sky.eu 
 - ⚡ Fun fact: Life goes on like it always does until it doesn't.
 
 <!---
